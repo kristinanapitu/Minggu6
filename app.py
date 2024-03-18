@@ -16,3 +16,11 @@ def luas_persegi_panjang():
     print("Luas persegi adalah: ", luas)
 
 luas_persegi_panjang()
+
+# Hitung Luas Persegi Panjang
+def luas_lingkaran():
+    r = int(input("Masukkan jari jari: "))
+    luas = 3.14*r *r
+    print("Luas persegi adalah: ", luas)
+
+luas_lingkaran()
